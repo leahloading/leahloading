@@ -1,7 +1,7 @@
 ## *`hello,`*
 
 
-⚡ I'm a Software Engineer, based in London with an **interest in UI design and development**. 
+⚡ I'm a software engineer, based in London with an **interest in UI design and development**. 
 
 
 I want to build (and ship) *performant, accessible features* that meet user needs and **improve user experience**. I love to learn from others, share knowledge and feel better in environments that support me in owning my work.
